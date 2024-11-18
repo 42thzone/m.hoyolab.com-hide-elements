@@ -6,8 +6,8 @@
 ! 
 ! 
 ! You can use this filtering rule in any app or browser with ad blocking capabilities
-! 広告ブロック機能を持つアプリやブラウザで使用できます。
 ! I am not responsible for any harm caused by the use of these filtering rules
+! 広告ブロック機能を持つアプリやブラウザで使用できます
 ! このフィルタリングルールを利用したことで生じた不利益について、一切の責任を負いません
 
 ! Hide the phrase “Please rotate your device~” / 「デバイスを縦方向に～」表記を非表示
