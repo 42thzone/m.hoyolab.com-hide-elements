@@ -14,7 +14,7 @@
 m.hoyolab.com##.mihoyo_landscape
 
 ! Hide account login pop-up / アカウントログインのポップアップを非表示
-m.hoyolab.com##.hyv-account-frame
+m.hoyolab.com###hyv-account-frame
 
 ! Hide the note recommending the installation of the HoYoLAB mobile application
 ! HoYoLABアプリのインストールを促す表記を非表示
