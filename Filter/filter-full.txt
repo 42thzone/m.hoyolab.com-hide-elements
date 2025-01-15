@@ -1,0 +1,31 @@
+[Adblock Plus 2.0]
+! Title: HoYoLAB mobile website hide elements
+! Last modified: 15 Jan 2025 11:00 JST
+! License: CC0 (Public Domain)
+! Homepage: https://www.hoyolab.com/accountCenter/postList?id=288636976
+! 
+! 
+! You can use this filtering rule in any app or browser with ad blocking capabilities
+! I am not responsible for any harm caused by the use of these filtering rules
+! 広告ブロック機能を持つアプリやブラウザで使用できます
+! このフィルタリングルールを利用したことで生じた不利益について、一切の責任を負いません
+
+! Hide the phrase “Please rotate your device~” / 「デバイスを縦方向に～」表記を非表示
+m.hoyolab.com##.mihoyo_landscape
+
+! Hide account login pop-up / アカウントログインのポップアップを非表示
+m.hoyolab.com###hyv-account-frame
+
+! Hide the note recommending the installation of the HoYoLAB mobile application
+! HoYoLABアプリのインストールを促す表記を非表示
+m.hoyolab.com##.guide-download-drawer
+
+! Hide action toolbars such as 'Like' and 'Favourite', comment boxes, etc
+! 「いいね」「お気に入り」などのアクションツールバーやコメント欄等を非表示にする(ログインしない人向け)
+m.hoyolab.com##.article-action-toolbar
+m.hoyolab.com##.article-detail-reply-area
+m.hoyolab.com##.article-detail-user-fixed
+
+! Prevent filtering malfunctions on login bonus pages (just in case)
+! ログボページでのフィルタリング誤動作防止(念のため)
+@@||act.hoyolab.com^
