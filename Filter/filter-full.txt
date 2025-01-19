@@ -26,6 +26,11 @@ m.hoyolab.com##.article-action-toolbar
 m.hoyolab.com##.article-detail-reply-area
 m.hoyolab.com##.article-detail-user-fixed
 
+! Hide banners, etc. leading to other content at the bottom of the page
+! ページ下部の他のコンテンツに誘導するバナー等を非表示
+m.hoyolab.com##.article-more-container
+m.hoyolab.com##.article-circles-entry
+
 ! Prevent filtering malfunctions on login bonus pages (just in case)
 ! ログボページでのフィルタリング誤動作防止(念のため)
 @@||act.hoyolab.com^
